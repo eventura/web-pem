@@ -28,9 +28,11 @@ img {
 #header {
 	position: relative;
 	top: -10px;
-	background-color: #3c4543;
+	background-color: #7F7771;
 	border-top-left-radius: 15px;
 	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border-bottom-right-radius: 15px;
 }
 
 ul{
@@ -60,7 +62,6 @@ p {
 }
 
 #middle{
-
     background-color:#cc0000;
     height:100px;
     width:100%;

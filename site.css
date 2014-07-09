@@ -2,6 +2,30 @@ body {
 	background-color: #E2F2F0;
 }
 
+#header{
+    height:100px;
+    width:100%;
+	position: relative;
+	top: -10px;
+	background-color: #7F7771;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+
+img {
+	height: 170px;
+	width: 170px;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+}
+
+#left{
+	width: 45%;
+	margin-left: auto;
+	margin-right: auto;
+	/*float: left;*/
+}
+
 /*h2 {
 	font-family: Verdana;
 	font-weight: bold;
@@ -11,12 +35,6 @@ body {
 	color: #acd1b2;
 }*/
 
-img {
-	height: 170px;
-	width: 170px;
-	box-shadow: rgba(0,0,0,0.2) 10px 10px;
-
-}
 
 /*#navbar {
 	position: fixed;
@@ -25,7 +43,7 @@ img {
 	margin-left:-254px;
 }*/
 
-/*#header {
+/*#exheader {
 	position: relative;
 	top: -10px;
 	background-color: #7F7771;
@@ -51,26 +69,14 @@ li {
 	background-color: #cc0323
 }
 
-#left{
-	width: 45%;
-	float: left;
-}
+
 
 p {
 	font-family: Tahoma;
 	font-size: 1em;
 }
 
-#middle{
-    height:100px;
-    width:100%;
-	position: relative;
-	top: -10px;
-	background-color: #7F7771;
-	border-top-left-radius: 15px;
-	border-top-right-radius: 15px;
-	border-bottom-left-radius: 15px;
-	border-bottom-right-radius: 15px;
+
 }
 
 #right{

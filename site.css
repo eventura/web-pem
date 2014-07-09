@@ -8,7 +8,7 @@
 	font-family: Verdana;
 	font-weight: bold;
 	text-align: left;
-	padding-top: 25px;
+	padding-top: 100px;
 	padding-bottom: 25px;
 	padding-left:100px;
 	color: #acd1b2;
@@ -18,14 +18,14 @@
 	font-family: Verdana;
 	font-weight: bold;
 	text-align: right;
-	padding-top: 25px;
+	padding-top: 100px;
 	padding-bottom: 25px;
 	padding-right: 100px;
 	color: #acd1b2;
 }
 
 img {
-	height:125px;
+	height:200px;
 	width:150px;
 	margin-left: 100;
 	margin-right: 100;

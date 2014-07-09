@@ -1,25 +1,33 @@
 #header {
 	position: relative;
-	top: -10px;
+	top: -50px;
 	background-color: #3c4543;
-	border-top-left-radius: 15px;
-	border-top-right-radius: 15px;
 }
 
-#navbar {
-	position: fixed;
-	top:10px;
-	left:50%;
-	margin-left:-254px;
+#h51 {
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: left;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-left:100px;
+	color: #acd1b2;
+}
+
+#h52 {
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: right;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-right: 100px;
+	color: #acd1b2;
 }
 
 img {
-	height=150px;
-	width=200px;
+	height:100px;
+	width:175px;
 	margin-left: auto;
 	margin-right: auto;
-}
 
-h3 {
-	color:blue;
 }

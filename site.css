@@ -59,6 +59,13 @@ p {
 	font-size: 1em;
 }
 
+#middle{
+
+    background-color:#cc0000;
+    height:100px;
+    width:100%;
+}
+
 #right{
 	width: 45%;
 	float: right;

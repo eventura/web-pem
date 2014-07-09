@@ -1,6 +1,6 @@
 #header {
-	position: relative;
-	top: -50px;
+	position: fixed;
+	margin-top: -50px;
 	background-color: #3c4543;
 }
 
@@ -25,10 +25,10 @@
 }
 
 img {
-	height:100px;
+	height:125px;
 	width:150px;
-	margin-left: 50%;
-	margin-right: 50%;
+	margin-left: 100;
+	margin-right: 100;
 	margin-top: -100px;
 	box-shadow: rgba(0,0,0,0.2) 5px 5px;
 

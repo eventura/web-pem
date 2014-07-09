@@ -20,9 +20,10 @@ img {
 }
 
 #left{
-	width: 45%;
-	margin-left: auto;
-	margin-right: auto;
+	/*width: 45%;*/
+	height: 170px;
+	width: 170px;
+	align: middle;
 	/*float: left;*/
 }
 

@@ -1,6 +1,6 @@
 #header {
-	position: fixed;
-	margin-top: -50px;
+	position: absolute;
+	margin-top: -20px;
 	background-color: #3c4543;
 }
 

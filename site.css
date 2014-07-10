@@ -16,17 +16,16 @@ body {
 img {
 	height: 108.38ppx;
 	width: 140px;
-	/*box-shadow: rgba(0,0,0,0.2) 10px 10px;*/
 	box-shadow: 0 8px 6px -6px black;
 }
 
-#left{
+#logo{
 	/*width: 45%;*/
 	height: 108.38px;
 	width: 140px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: -20px;
+	top: -50px;
 	/*float: left;*/
 }
 

@@ -20,11 +20,11 @@ img {
 	height: 108.38px;
 	width: 140px;
 	position: absolute;
-	left: 40%;
-	top: 12.5%;
+	left: 45%;
+	top: 12.5px;
 }
 
-#h21 {
+#h51 {
 	font-family: Verdana;
 	text-align: left;
 	padding-top: 25px;
@@ -33,7 +33,7 @@ img {
 	color: #acd1b2;
 }
 
-#h22 {
+#h52 {
 	font-family: Verdana;
 	text-align: right;
 	padding-top: 25px;

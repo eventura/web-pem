@@ -6,7 +6,7 @@ body {
     height:60px;
     width:100%;
 	position: relative;
-	top: 12.5%;
+	top: 40%;
 	background-color: #302F2E;
 }
 
@@ -20,9 +20,9 @@ img {
 	height: 108.38px;
 	width: 140px;
 	position: absolute;
-	left: 50%;
+	left: 30%;
 	top: 12.5%;
-	transform: translate(-50%, -12.5%);
+	transform: translate(-30%, -12.5%);
 }
 
 /*h2 {

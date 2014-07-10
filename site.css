@@ -26,7 +26,7 @@ img {
 
 #h51 {
 	font-family: Verdana;
-	text-align: right;
+	text-align: left;
 	padding-top: 25px;
 	padding-bottom: 25px;
 	padding-left: 200px;
@@ -36,7 +36,7 @@ img {
 #h52 {
 	font-family: Verdana;
 	text-align: right;
-	padding-top: 25px;
+	padding-top: -25px;
 	padding-bottom: 25px;
 	padding-right: 200px;
 	color: #acd1b2;

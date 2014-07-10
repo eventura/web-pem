@@ -11,14 +11,14 @@ body {
 }
 
 img {
-	height: 108.38ppx;
-	width: 140px;
+	height: 116.12ppx;
+	width: 150px;
 	box-shadow: 0 8px 6px -6px black;
 }
 
 #logo{
-	height: 108.38px;
-	width: 140px;
+	height: 116.12px;
+	width: 150px;
 	position: absolute;
 	left: 45%;
 	top: 3%;
@@ -123,10 +123,10 @@ th {
 }
 
 #footer{
-	position: relative;
+	position: absolute;
 	bottom: 0%;
 	height: 30px;
-	width: 100%;
+	width: 98%;
 	background-color: #302F2E;
 }
 

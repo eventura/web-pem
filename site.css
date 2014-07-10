@@ -21,7 +21,7 @@ img {
 	width: 140px;
 	position: absolute;
 	left: 45%;
-	top: 1%;
+	top: 3%;
 }
 
 #h51 {
@@ -34,14 +34,20 @@ img {
 }
 
 #h52 {
+	float:right;
 	font-family: Verdana;
-	text-align: right;
-	padding-top: -25px;
+	/*text-align: right;*/
+	padding-top: 25px;
 	padding-bottom: 25px;
 	padding-right: 200px;
 	color: #acd1b2;
 }
 
+p.footer{
+	text-align:center; 
+	font-style:italic;
+	color:white;
+}
 
 /*#navbar {
 	position: fixed;
@@ -115,7 +121,7 @@ th {
 	color: #3c4543
 }
 
-#footer{
+.footer{
 	clear: both;
 	position: relative;
 	bottom: 0%;

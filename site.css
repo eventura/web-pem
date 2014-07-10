@@ -7,7 +7,7 @@ body {
     width:100%;
 	position: relative;
 	top: 40px;
-	background-color: #191817;
+	background-color: #302F2E;
 	/*border-top-left-radius: 15px;
 	border-top-right-radius: 15px;
 	border-bottom-left-radius: 15px;
@@ -23,9 +23,12 @@ img {
 	/*width: 45%;*/
 	height: 108.38px;
 	width: 140px;
-	margin-left: auto;
-	margin-right: auto;
-	top: -50px;
+	/*margin-left: auto;
+	margin-right: auto;*/
+	position: absolute;
+	top: 20px;
+	left: auto;
+	right: auto;
 	/*float: left;*/
 }
 

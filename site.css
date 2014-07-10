@@ -26,7 +26,7 @@ img {
 
 #h51 {
 	font-family: Verdana;
-	text-align: left;
+	text-align: right;
 	padding-top: 25px;
 	padding-bottom: 25px;
 	padding-left: 200px;
@@ -35,10 +35,10 @@ img {
 
 #h52 {
 	font-family: Verdana;
-	text-align: left;
+	text-align: right;
 	padding-top: 25px;
 	padding-bottom: 25px;
-	padding-left: 200px;
+	padding-right: 200px;
 	color: #acd1b2;
 }
 
@@ -126,6 +126,7 @@ th {
 	position: absolute;
 	bottom: 0%;
 	height: 30px;
+	width: 100%;
 	background-color: #302F2E;
 }
 

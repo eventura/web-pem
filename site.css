@@ -6,7 +6,7 @@ body {
     height:60px;
     width:100%;
 	position: relative;
-	top: 40%;
+	top: 40px;
 	background-color: #302F2E;
 }
 
@@ -20,19 +20,27 @@ img {
 	height: 108.38px;
 	width: 140px;
 	position: absolute;
-	left: 30%;
+	left: 40%;
 	top: 12.5%;
-	transform: translate(-30%, -12.5%);
 }
 
-/*h2 {
+#h21 {
 	font-family: Verdana;
-	font-weight: bold;
-	text-align: center;
+	text-align: left;
 	padding-top: 25px;
 	padding-bottom: 25px;
+	padding-left: 100px;
 	color: #acd1b2;
-}*/
+}
+
+#h22 {
+	font-family: Verdana;
+	text-align: right;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-right: 100px;
+	color: #acd1b2;
+}
 
 
 /*#navbar {

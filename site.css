@@ -34,9 +34,10 @@ img {
 }
 
 #h52 {
+	position: absolute;
 	font-family: Verdana;
 	text-align: right;
-	padding-top: -75px;
+	padding-top: 0px;
 	padding-bottom: 25px;
 	padding-right: 200px;
 	color: #acd1b2;
@@ -122,8 +123,7 @@ th {
 }
 
 #footer{
-	clear: both;
-	position: absolute;
+	position: relative;
 	bottom: 0%;
 	height: 30px;
 	width: 100%;

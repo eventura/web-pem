@@ -6,13 +6,10 @@ body {
     height:60px;
     width:100%;
 	position: relative;
-	top: 40px;
+	top: 12.5%;
 	background-color: #302F2E;
-	/*border-top-left-radius: 15px;
-	border-top-right-radius: 15px;
-	border-bottom-left-radius: 15px;
-	border-bottom-right-radius: 15px;*/
 }
+
 img {
 	height: 108.38ppx;
 	width: 140px;
@@ -20,16 +17,12 @@ img {
 }
 
 #logo{
-	/*width: 45%;*/
 	height: 108.38px;
 	width: 140px;
-	/*margin-left: auto;
-	margin-right: auto;*/
 	position: absolute;
-	top: -10px;
 	left: 50%;
-	right: 70%;
-	/*float: left;*/
+	top: 12.5%;
+	transform: translate(-50%, -12.5%);
 }
 
 /*h2 {

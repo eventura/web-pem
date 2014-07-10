@@ -34,19 +34,19 @@ img {
 }
 
 #h52 {
-	float:right;
+	position:absolute;
 	font-family: Verdana;
-	/*text-align: right;*/
+	text-align: right;
 	padding-top: 25px;
-	padding-bottom: 25px;
 	padding-right: 200px;
 	color: #acd1b2;
 }
 
-p.footer{
+#diseno_por{
 	text-align:center; 
 	font-style:italic;
 	color:white;
+	font-size: x-small;
 }
 
 /*#navbar {
@@ -121,9 +121,9 @@ th {
 	color: #3c4543
 }
 
-.footer{
+#footer{
 	clear: both;
-	position: relative;
+	position: absolute;
 	bottom: 0%;
 	height: 30px;
 	background-color: #302F2E;

@@ -21,7 +21,7 @@ img {
 	width: 140px;
 	position: absolute;
 	left: 45%;
-	top: 12.5%;
+	top: 1%;
 }
 
 #h51 {
@@ -36,7 +36,7 @@ img {
 #h52 {
 	font-family: Verdana;
 	text-align: right;
-	padding-top: 1px;
+	padding-top: -25px;
 	padding-bottom: 25px;
 	padding-right: 200px;
 	color: #acd1b2;
@@ -115,25 +115,15 @@ th {
 	color: #3c4543
 }
 
-#bottom_left{
-	border-bottom-left-radius: 15px;
-}
-
-#bottom_right{
-	border-bottom-right-radius: 15px;
-}
-
 #footer{
 	clear: both;
 	position: relative;
-	bottom: -20px;
-	border-bottom-left-radius: 15px;
-	border-bottom-right-radius: 15px;
-	height: 75px;
-	background-color: #3c4543;
+	bottom: 0%;
+	height: 30px;
+	background-color: #302F2E;
 }
 
-#button{
+/*#button{
 	border: 2px solid #000000;
 	float:left;
 	position: relative;
@@ -160,4 +150,4 @@ th {
 	font-size: 1.2em;
 	font-variant: small-caps;
 	color: #ffffff;
-}
+}*/

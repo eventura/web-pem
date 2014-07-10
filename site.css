@@ -6,7 +6,7 @@ body {
     height:60px;
     width:100%;
 	position: relative;
-	top: 30px;
+	top: 25px;
 	background-color: #302F2E;
 }
 
@@ -34,11 +34,11 @@ img {
 }
 
 #h52 {
-	position:absolute;
 	font-family: Verdana;
-	text-align: right;
+	text-align: left;
 	padding-top: 25px;
-	padding-right: 200px;
+	padding-bottom: 25px;
+	padding-left: 200px;
 	color: #acd1b2;
 }
 

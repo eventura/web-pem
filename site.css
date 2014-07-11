@@ -12,22 +12,28 @@ body {
 #header{
 	float: left;
 	clear: both;
+	height: 60px;
 	width: 100%;
 	margin: 0px;
-	padding-left: 0px;
-	padding-right: 0px;
-	padding-top: 25px;
-	padding-bottom: 0px;
-	background: #302F2E
+	padding: 0px;
+	background: #302F2E;
 }
 
-#navin {
+#navin1 {
 	float: left; 
-	clear: both; 
 	width: auto; 
 	margin: 0; 
 	padding: 10px 20px; 
-	background: transparent; }
+	background: transparent; 
+}
+
+#navin2 {
+	float: right; 
+	width: auto; 
+	margin: 0; 
+	padding: 10px 20px; 
+	background: transparent; 
+}
 
 #h51 {
 	font-family: Verdana;
@@ -56,9 +62,12 @@ img {
 #footer{
 	position: absolute;
 	bottom: 0%;
+	clear: both;
 	height: 30px;
-	width: 99%;
-	background-color: #302F2E;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	background: #302F2E;
 }
 
 #diseno_por{

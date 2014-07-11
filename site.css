@@ -37,9 +37,9 @@ img {
 	position: absolute;
 	font-family: Verdana;
 	text-align: right;
-	padding-top: 0px;
+	padding-top: -20px;
 	padding-bottom: 25px;
-	padding-right: 200px;
+	padding-right: 20px;
 	color: #acd1b2;
 }
 
@@ -126,7 +126,7 @@ th {
 	position: absolute;
 	bottom: 0%;
 	height: 30px;
-	width: 98%;
+	width: 99%;
 	background-color: #302F2E;
 }
 

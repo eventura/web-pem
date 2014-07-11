@@ -2,29 +2,40 @@ body {
 	background-color: #FFFFFF;
 }
 
-#header{
+/*#header{
     height:60px;
     width:100%;
 	position: relative;
 	top: 25px;
 	background-color: #302F2E;
+}*/
+#header{
+	float: left;
+	clear: both;
+	width: 100%;
+	margin: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 25px;
+	padding-bottom: 0px;
+	background: #302F2E
 }
+
+#navin {
+	float: left; 
+	clear: both; 
+	width: auto; 
+	margin: 0; 
+	padding: 10px 20px; 
+	background: transparent; }
 
 #h51 {
 	font-family: Verdana;
-	text-align: left;
-	padding-top: 25px;
-	padding-bottom: 25px;
-	padding-left: 200px;
 	color: #acd1b2;
 }
 
 #h52 {
 	font-family: Verdana;
-	text-align: right;
-	padding-top: 25px;
-	padding-bottom: 25px;
-	padding-right: 200px;
 	color: #acd1b2;
 }
 
@@ -32,7 +43,7 @@ body {
 	height: 116.12px;
 	width: 150px;
 	position: absolute;
-	left: 45%;
+	left: 43%;
 	top: 3%;
 }
 

@@ -34,12 +34,11 @@ img {
 }
 
 #h52 {
-	position: absolute;
 	font-family: Verdana;
 	text-align: right;
-	padding-top: -20px;
+	padding-top: 25px;
 	padding-bottom: 25px;
-	padding-right: 20px;
+	padding-right: 200px;
 	color: #acd1b2;
 }
 

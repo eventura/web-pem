@@ -10,20 +10,6 @@ body {
 	background-color: #302F2E;
 }
 
-img {
-	height: 116.12ppx;
-	width: 150px;
-	box-shadow: 0 8px 6px -6px black;
-}
-
-#logo{
-	height: 116.12px;
-	width: 150px;
-	position: absolute;
-	left: 45%;
-	top: 3%;
-}
-
 #h51 {
 	font-family: Verdana;
 	text-align: left;
@@ -42,11 +28,18 @@ img {
 	color: #acd1b2;
 }
 
-#diseno_por{
-	text-align:center; 
-	font-style:italic;
-	color:white;
-	font-size: x-small;
+#logo{
+	height: 116.12px;
+	width: 150px;
+	position: absolute;
+	left: 45%;
+	top: 3%;
+}
+
+img {
+	height: 116.12ppx;
+	width: 150px;
+	box-shadow: 0 8px 6px -6px black;
 }
 
 #footer{
@@ -56,3 +49,12 @@ img {
 	width: 99%;
 	background-color: #302F2E;
 }
+
+#diseno_por{
+	text-align:center; 
+	font-style:italic;
+	color:white;
+	font-size: x-small;
+}
+
+
